@@ -1,0 +1,39 @@
+header {
+  width: 100%;
+  display: flex;
+  justify-self: center;
+  align-items: center;
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit-btn{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0px;
+}
+
+.outputImage{
+  background-color: white;
+  border: 1px solid black;
+  width: 256px;
+  height: 256px;
+  margin-bottom: 110px;
+  margin-left: 90px;
+}
+
+.mHeading{
+  color: white;
+  font-size: 55px;
+}
+
+.headingg{
+  float: left;
+  margin-left: 45%;
+}
